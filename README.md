@@ -1,1 +1,1 @@
-# amaliyot
+Ushbu repositoryda pythonda yozilgan kodlar jamlangan
